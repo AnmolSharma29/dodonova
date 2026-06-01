@@ -1,0 +1,22 @@
+{
+  "name": "dodonova-real-estate",
+  "version": "1.0.0",
+  "description": "Dodonova Real Estate — luxury property listings across India.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "lucide-react": "^1.17.0",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "react-router-dom": "^7.16.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.2",
+    "vite": "^8.0.16"
+  },
+  "private": true,
+  "type": "module"
+}
