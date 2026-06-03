@@ -6,8 +6,8 @@ export const SITE = {
   phoneHref: 'tel:+919711040072',
   email: 'contact@dodonova.in',
   emailHref: 'mailto:contact@dodonova.in',
-  instagram: 'instagram.com/dodonova.in',
-  instagramHref: 'https://www.instagram.com/dodonova.in',
+  instagram: 'instagram.com/dodonova.realestate',
+  instagramHref: 'https://www.instagram.com/dodonova.realestate',
   whatsappHref: 'https://wa.me/919711040072',
   cities: ['Mumbai', 'Gurugram', 'Bangalore', 'Hyderabad', 'Chennai'],
 };
